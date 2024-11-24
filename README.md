@@ -104,7 +104,7 @@ This report presents a professional analysis of the Power BI dashboard, highligh
 ---
 
 ### **2. SQL-Based Forecast Analysis**  
-SQL was employed to complement the Power BI dashboard by addressing specific forecasting questions using advanced data analysis techniques:
+SQL was employed to complement the Power BI dashboard by addressing specific forecasting questions:
 
 ---
 
