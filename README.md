@@ -25,7 +25,7 @@ This project aimed to deliver actionable insights into sales performance, profit
 ---
 
 ## **Dashboard Overview**
-![Regional-and-Temporal-Sales-Performance-Analysis-with-Forecasting-Insights](Regional & Temporal Analysis.png)  
+![Regional-and-Temporal-Sales-Performance-Analysis-with-Forecasting-Insights](https://raw.githubusercontent.com/Sakib1605/Regional-and-Temporal-Sales-Performance-Analysis-with-Forecasting-Insights/refs/heads/main/Regional%20%26%20Temporal%20Analysis.png)  
 *Figure: Regional and Temporal Sales Performance Analysis Dashboard*
 
 ## **Approach and Methodology**
