@@ -26,21 +26,81 @@ This project aimed to deliver actionable insights into sales performance, profit
 
 ## **Approach and Methodology**
 
-### **1. Power BI Dashboard for Historical Sales Analysis**  
-The Power BI dashboard provided a detailed and interactive view of historical sales trends, product category performance, and regional contributions:
 
-- **Key Metrics Displayed:**  
-  - Total Sales: $30.08M  
-  - Gross Profit: $11.96M  
-  - Total Quantity Sold: 1.24M  
-  - Number of Customers: 949  
-  - Unique Products Sold: 1,000  
+## **Dashboard Analysis Report**
 
-- **Interactive Visualizations:**  
-  - **Year-to-Date (YTD) Analysis:** A bar chart comparing YTD metrics by month, highlighting growth or decline.  
-  - **Product Performance:** Pie charts visualizing gross profit and sales contribution by product categories (Indoor, Outdoor, Landscape).  
-  - **Regional Analysis:** A geographical map showing sales distribution by region and a bar chart of the top-performing countries.  
-  - **Cost and Profit Trends:** A line chart comparing sales, costs, and gross profit over time.  
+This report presents a professional analysis of the Power BI dashboard, highlighting the business questions addressed by each visualization and explaining how each plot contributes to actionable insights.
+
+---
+
+## **1. Business Question: How does year-to-date (YTD) sales performance compare to the previous year?**
+### **Visualization: YTD minus PYTD by Month (Bar Chart)**  
+- **Explanation:**  
+  This visualization compares the current year-to-date (YTD) sales performance to the previous year by month. Positive and negative bar segments clearly highlight monthly growth or decline.  
+  - **Insight:**  
+    The chart identifies specific months where performance improved or declined, providing insights into seasonal trends and opportunities to address underperforming periods.
+
+---
+
+## **2. Business Question: What is the contribution of each product type to total order quantities?**
+### **Visualization: Order Quantity by Product Type (Pie Chart)**  
+- **Explanation:**  
+  This pie chart displays the proportion of order quantities fulfilled by each product type (Indoor, Outdoor, Landscape).  
+  - **Insight:**  
+    It reveals the relative importance of each product category, helping prioritize production, marketing, and inventory strategies.
+
+---
+
+## **3. Business Question: Which product types generate the highest gross profit?**
+### **Visualization: Gross Profit by Product Type (Pie Chart)**  
+- **Explanation:**  
+  This visualization breaks down gross profit by product category, highlighting the profitability contribution of each product type.  
+  - **Insight:**  
+    It identifies the most profitable categories, aiding in resource allocation and financial planning.
+
+---
+
+## **4. Business Question: What are the monthly trends in sales, costs, and gross profit?**
+### **Visualization: Cost of Goods and Total Sales by Month (Line Chart)**  
+- **Explanation:**  
+  This line chart tracks monthly trends in total sales, cost of goods sold (COGS), and gross profit over time.  
+  - **Insight:**  
+    It provides a detailed view of profitability trends, showing how costs and revenue impact gross profit. This helps in identifying months with high profitability or cost spikes that need attention.
+
+---
+
+## **5. Business Question: How do year-to-date sales compare across product types over time?**
+### **Visualization: YTD vs PYTD by Month & Product Type (Stacked Bar Chart)**  
+- **Explanation:**  
+  This chart compares year-to-date (YTD) sales across months, broken down by product types.  
+  - **Insight:**  
+    It highlights product-specific trends and performance variations across months, supporting strategic planning for product portfolios.
+
+---
+
+## **6. Business Question: How do regional sales contribute to total performance?**
+### **Visualization: Sales Performance by Region (Geographical Map)**  
+- **Explanation:**  
+  This map visualizes sales contributions geographically, with bubble sizes representing the total sales volume for each region.  
+  - **Insight:**  
+    It identifies high-performing regions, providing insights into geographic markets that drive overall performance or require growth strategies.
+
+---
+
+## **7. Business Question: Which regions are the top contributors to sales?**
+### **Visualization: Top 5 Countries Based on Sales (Bar Chart)**  
+- **Explanation:**  
+  This bar chart ranks the top-performing countries based on their total sales.  
+  - **Insight:**  
+    It highlights key markets and enables comparative analysis of country-level contributions to overall sales, supporting decisions about resource allocation and market focus.
+
+---
+
+## **Conclusion**
+The Power BI dashboard provides a comprehensive and interactive view of sales trends, profitability, and regional performance. Each visualization addresses a specific business question, offering insights into historical performance, product contributions, and geographic trends. These insights empower stakeholders to make data-driven decisions for improving operations, optimizing resources, and driving growth.
+
+
+
 
 - **Filters and Slicers:**  
   Users can filter data by year, month, region, product type, and performance measures, enabling customized analysis.
