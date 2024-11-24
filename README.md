@@ -27,13 +27,13 @@ This project aimed to deliver actionable insights into sales performance, profit
 ## **Approach and Methodology**
 
 
-## **Dashboard Analysis Report**
+### **Dashboard Analysis Report**
 
 This report presents a professional analysis of the Power BI dashboard, highlighting the business questions addressed by each visualization and explaining how each plot contributes to actionable insights.
 
 ---
 
-## **1. Business Question: How does year-to-date (YTD) sales performance compare to the previous year?**
+### **1. Business Question: How does year-to-date (YTD) sales performance compare to the previous year?**
 ### **Visualization: YTD minus PYTD by Month (Bar Chart)**  
 - **Explanation:**  
   This visualization compares the current year-to-date (YTD) sales performance to the previous year by month. Positive and negative bar segments clearly highlight monthly growth or decline.  
@@ -42,7 +42,7 @@ This report presents a professional analysis of the Power BI dashboard, highligh
 
 ---
 
-## **2. Business Question: What is the contribution of each product type to total order quantities?**
+### **2. Business Question: What is the contribution of each product type to total order quantities?**
 ### **Visualization: Order Quantity by Product Type (Pie Chart)**  
 - **Explanation:**  
   This pie chart displays the proportion of order quantities fulfilled by each product type (Indoor, Outdoor, Landscape).  
@@ -51,7 +51,7 @@ This report presents a professional analysis of the Power BI dashboard, highligh
 
 ---
 
-## **3. Business Question: Which product types generate the highest gross profit?**
+### **3. Business Question: Which product types generate the highest gross profit?**
 ### **Visualization: Gross Profit by Product Type (Pie Chart)**  
 - **Explanation:**  
   This visualization breaks down gross profit by product category, highlighting the profitability contribution of each product type.  
@@ -60,7 +60,7 @@ This report presents a professional analysis of the Power BI dashboard, highligh
 
 ---
 
-## **4. Business Question: What are the monthly trends in sales, costs, and gross profit?**
+### **4. Business Question: What are the monthly trends in sales, costs, and gross profit?**
 ### **Visualization: Cost of Goods and Total Sales by Month (Line Chart)**  
 - **Explanation:**  
   This line chart tracks monthly trends in total sales, cost of goods sold (COGS), and gross profit over time.  
@@ -69,7 +69,7 @@ This report presents a professional analysis of the Power BI dashboard, highligh
 
 ---
 
-## **5. Business Question: How do year-to-date sales compare across product types over time?**
+### **5. Business Question: How do year-to-date sales compare across product types over time?**
 ### **Visualization: YTD vs PYTD by Month & Product Type (Stacked Bar Chart)**  
 - **Explanation:**  
   This chart compares year-to-date (YTD) sales across months, broken down by product types.  
@@ -78,7 +78,7 @@ This report presents a professional analysis of the Power BI dashboard, highligh
 
 ---
 
-## **6. Business Question: How do regional sales contribute to total performance?**
+### **6. Business Question: How do regional sales contribute to total performance?**
 ### **Visualization: Sales Performance by Region (Geographical Map)**  
 - **Explanation:**  
   This map visualizes sales contributions geographically, with bubble sizes representing the total sales volume for each region.  
@@ -87,20 +87,12 @@ This report presents a professional analysis of the Power BI dashboard, highligh
 
 ---
 
-## **7. Business Question: Which regions are the top contributors to sales?**
+### **7. Business Question: Which regions are the top contributors to sales?**
 ### **Visualization: Top 5 Countries Based on Sales (Bar Chart)**  
 - **Explanation:**  
   This bar chart ranks the top-performing countries based on their total sales.  
   - **Insight:**  
     It highlights key markets and enables comparative analysis of country-level contributions to overall sales, supporting decisions about resource allocation and market focus.
-
----
-
-## **Conclusion**
-The Power BI dashboard provides a comprehensive and interactive view of sales trends, profitability, and regional performance. Each visualization addresses a specific business question, offering insights into historical performance, product contributions, and geographic trends. These insights empower stakeholders to make data-driven decisions for improving operations, optimizing resources, and driving growth.
-
-
-
 
 - **Filters and Slicers:**  
   Users can filter data by year, month, region, product type, and performance measures, enabling customized analysis.
