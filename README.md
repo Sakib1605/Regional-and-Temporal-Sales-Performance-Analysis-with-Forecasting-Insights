@@ -1,4 +1,4 @@
-# **Strategic Sales and Profitability Forecasting Using Power BI and SQL**
+# **Regional and Temporal Sales Performance Analysis with Forecasting Insights Using Power BI and SQL**
 
 ---
 
@@ -24,6 +24,9 @@ This project aimed to deliver actionable insights into sales performance, profit
 
 ---
 
+## **Screenshot of the Dashboard**
+
+![Regional-and-Temporal-Sales-Performance-Analysis](Regional & Temporal Analysis.png)
 ## **Approach and Methodology**
 
 
