@@ -1,5 +1,4 @@
-# **Project Title:**  
-**Strategic Sales and Profitability Forecasting Using Power BI and SQL**
+# **Strategic Sales and Profitability Forecasting Using Power BI and SQL**
 
 ---
 
