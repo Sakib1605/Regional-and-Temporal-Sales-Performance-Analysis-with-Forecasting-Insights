@@ -2,7 +2,6 @@
 
 ---
 
-## **Project Report**
 
 ### **Introduction:**  
 This project aimed to deliver actionable insights into sales performance, profitability trends, and regional growth opportunities through an advanced combination of data visualization and forecasting. Utilizing Power BI, an interactive dashboard was created to summarize historical sales data and highlight key performance metrics. In parallel, SQL queries were used to perform forecast analysis, addressing specific business questions related to future sales, demand, and profitability. This comprehensive approach equips stakeholders with the tools and insights needed to drive strategic decisions and operational efficiencies.
